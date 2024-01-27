@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Alok Mahato</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="Coding" width="350" src="Giphy.gif">
+<img align="right" alt="Coding" width="300" src="Giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokmht07&label=Profile%20views&color=0e75b6&style=flat" alt="alokmht07" /> </p>
 
