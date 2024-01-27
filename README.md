@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Alok Mahato</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9mczdwMWZkbHR6azBoaXlvZnQ1cno5NGQzZGliaDRmcGd2ZXZoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZlNWVwZzhkbjNjY2JjeTI0dHFkNzFnd2RhbGJqdjViOHBobzEybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokmht07&label=Profile%20views&color=0e75b6&style=flat" alt="alokmht07" /> </p>
 
