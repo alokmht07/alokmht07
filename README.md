@@ -47,6 +47,6 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-<!-- # 📊 GitHub Stats -->
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=alokmht07&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com?user=alokmht07&card_width=467&theme=tokyonight)
