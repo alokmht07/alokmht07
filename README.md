@@ -1,48 +1,52 @@
-<h1 align="center">Hey Everyone 👋, I'm Alok Mahato</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-<!-- <img align="right" alt="Coding" width="350" src="Giphy.gif"> -->
+<h1 align="center">👋 Hi, I'm Alok</h1>
+<h3 align="center">Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokmht07&label=Profile%20views&color=0e75b6&style=flat" alt="alokmht07" /> </p>
+![](https://komarev.com/ghpvc/?username=alomht07&abbreviated=true)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/alokmht_07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/alokmht07)
 
-- 🔭 I’m currently working on [Technika_2K23](https://github.com/Chandanmajhi7/technika/tree/main/Website)
+<img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="230">
 
-- 🌱 I’m currently learning **Frameworks & Cloud DevOps**
+- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+- 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
+- 💬 Ask me about **ReactJS & Web Development**<br/>
+- 🔭 I’m currently working on [Solvify](https://github.com/Chandanmajhi7/solvify)<br/>
+- 📫 How to reach me [📩](alokmahato7517@gmail.com)<br/>
+- 🌷 #learninginpublic
 
-- 👨‍💻 All of my projects are available at [https://github.com/alokmht07](https://github.com/alokmht07)
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-- 💬 Ask me about **ReactJS & Web Development**
-
-- 📫 How to reach me **alokmahato7517@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alokmht_07" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="alokmht_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alokmht07" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="alokmht07" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="JAVA" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"   alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="40" height="40"/> </a>  
-  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokmht07&show_icons=true&locale=en&layout=compact" alt="alokmht07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokmht07&show_icons=true&locale=en" alt="alokmht07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokmht07&" alt="alokmht07" /></p>
+<!-- # 📊 GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=alokmht07&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com?user=alokmht07&card_width=467&theme=tokyonight)
