@@ -45,6 +45,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 <!-- # 📊 GitHub Stats -->
-#
 ![](https://github-readme-stats.vercel.app/api?username=alokmht07&show_icons=true&card_width=400&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com?user=alokmht07&card_width=400&theme=tokyonight)
