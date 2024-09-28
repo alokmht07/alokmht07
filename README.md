@@ -9,8 +9,8 @@
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
 - 💬 Ask me about **ReactJS & Web Development**<br/>
-- 🔭 I’m currently working on [Solvify](https://github.com/Chandanmajhi7/solvify)<br/>
-- 📫 How to reach me [📩](alokmahato7517@gmail.com)<br/>
+- 🔭 I’m currently working on [DRD](https://github.com/alokmht07)<br/>
+- 📫 How to reach me [📩](alokmahato52051@gmail.com)<br/>
 - 🌷 #learninginpublic
 
 # 💻 Tech Stack
