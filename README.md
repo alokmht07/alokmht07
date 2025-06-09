@@ -9,7 +9,7 @@
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
 - 💬 Ask me about **ReactJS & Web Development**<br/>
-- 🔭 I’m currently working on [GCP](https://github.com/alokmht07)<br/>
+- 🔭 I’m currently working on [Cloud]<br/>
 - 📫 How to reach me [📩](alokmahato52051@gmail.com)<br/>
 - 🌷 #learninginpublic
 
