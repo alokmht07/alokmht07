@@ -7,10 +7,6 @@
 <img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
 
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-- 🌱 Currently learning about **Frameworks & Cloud DevOps**<br/>
-- 💬 Ask me about **ReactJS & Web Development**<br/>
-- 🔭 I’m currently working on [KIRANAWALA](https://github.com/alokmht07/KIRANAWALA)<br/>
-- 📫 How to reach me [📩](alokmahato52051@gmail.com)<br/>
 - 🌷 #learninginpublic
 
 # 💻 Tech Stack
