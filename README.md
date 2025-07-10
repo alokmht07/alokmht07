@@ -6,8 +6,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
 
-- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-- 🌷 #learninginpublic
+- 👩🏻‍💻  A Software Engineer sharing about my contribution and learnings in Tech Industry<br/>
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
