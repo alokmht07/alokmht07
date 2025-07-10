@@ -6,7 +6,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
 
-A Software Engineer sharing about my contribution and learnings in Tech World.
+A Software Engineer sharing about my contributions and learnings in the Tech World.
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
